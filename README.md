@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**Dyjan/Dyjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dyjan Ayden, Brazilian, born in Manaus-AM. 🇧🇷 
 
-Here are some ideas to get you started:
+Student of the Systems Analysis and Development Course at Wyden and work as a Front-End developer. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about technology, solving problems, learning from them and presenting solutions. I am always open to new opportunities, overcome challenges, help and face changes.👊
+
+### 🌍 "I only know that I know nothing (Sócrates)" 🧠
+
+- 🏠 Currently living in Brazil, State of Amazonas in the city of Manaus.
+- 💻 Front-end developer in [Website Format] (https://www.formatowebsite.com.br)
+- 🌈 Sharing a little bit of my front-end journey in [Website Format] (https://www.instagram.com/formatowebsite/)
