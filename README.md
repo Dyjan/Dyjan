@@ -9,5 +9,5 @@ I am passionate about technology, solving problems, learning from them and prese
 ### 🌍 "I only know that I know nothing (Sócrates)" 🧠
 
 - 🏠 Currently living in Brazil, State of Amazonas in the city of Manaus.
-- 💻 Front-end developer in [Website Format] (https://www.formatowebsite.com.br)
+- 💻 Front-end developer in [Formato Website] (https://www.formatowebsite.com.br)
 - ✅ Sharing a little bit of my front-end journey in [Website Format] (https://www.instagram.com/formatowebsite/)
