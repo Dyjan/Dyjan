@@ -1,4 +1,4 @@
-# Hey! 👋
+# Hello! 👋
 
 My name is Dyjan Ayden, Brazilian, born in Manaus-AM. 🇧🇷 
 
