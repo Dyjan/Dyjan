@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey! 👋
 
 My name is Dyjan Ayden, Brazilian, born in Manaus-AM. 🇧🇷 
 
@@ -10,4 +10,4 @@ I am passionate about technology, solving problems, learning from them and prese
 
 - 🏠 Currently living in Brazil, State of Amazonas in the city of Manaus.
 - 💻 Front-end developer in [Website Format] (https://www.formatowebsite.com.br)
-- 🌈 Sharing a little bit of my front-end journey in [Website Format] (https://www.instagram.com/formatowebsite/)
+- ✅ Sharing a little bit of my front-end journey in [Website Format] (https://www.instagram.com/formatowebsite/)
