@@ -2,7 +2,7 @@
 
 Meu nome é Dyjan Ayden, brasileiro, natural de Manaus-AM. 🇧🇷 
 
-Analista de Sistemas, Pós graduado em engenharia de software e estudante de matemática. 💻
+Analista de Sistemas, Pós graduado em engenharia de software, Desenvolvedor WEB e estudante de matemática. 💻
 
 I am passionate about technology, solving problems, learning from them and presenting solutions. I am always open to new opportunities, overcome challenges, help and face changes.👊
 
